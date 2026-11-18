@@ -4,6 +4,8 @@ Application de terrain monopage en HTML pour saisir des informations de campagne
 
 > **Important :** le stockage local n’est pas une sauvegarde. Exportez régulièrement les CSV et conservez-en une copie ailleurs, notamment avant de changer de navigateur ou d’ordinateur.
 
+Application en ligne : https://nicoschiff.github.io/logbook/
+
 ## Sommaire
 
 - [Démarrage rapide](#démarrage-rapide)
