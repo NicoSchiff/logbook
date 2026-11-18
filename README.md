@@ -27,8 +27,6 @@ Application en ligne : https://nicoschiff.github.io/logbook/
 2. Ouvrez `index.html` dans un navigateur récent. Aucun serveur local ni installation n’est nécessaire.
 3. Utilisez les onglets et exportez les CSV pour conserver vos données.
 
-Une publication GitHub Pages est plausible : `index.html` est à la racine et l’application principale est en HTML, CSS et JavaScript intégrés. L’adresse prévue est [https://nicoschiff.github.io/logbook/](https://nicoschiff.github.io/logbook/). Pour l’activer, ouvrez **Settings > Pages** dans le dépôt, choisissez la branche `main` et la racine (`/`) comme source, puis enregistrez. La disponibilité effective de l’URL n’a pas pu être vérifiée lors de la rédaction.
-
 ## Fichiers
 
 - `index.html` — application principale (interface, calculs, stockage, imports et exports).
