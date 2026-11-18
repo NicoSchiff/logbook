@@ -17,6 +17,7 @@ Application de terrain monopage en HTML pour saisir des informations de campagne
 - [Dépannage](#dépannage)
 - [Mettre à jour le dépôt avec GitHub Desktop](#mettre-à-jour-le-dépôt-avec-github-desktop)
 - [Structure et licence](#structure-et-licence)
+- [Développement assisté par IA](#développement-assisté-par-IA)
 
 ## Démarrage rapide
 
